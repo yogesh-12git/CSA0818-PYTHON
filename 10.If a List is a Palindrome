@@ -4,3 +4,4 @@ def is_palindrome(lst):
         if lst[i] != lst[n - 1 - i]:
             return False
     return True
+
